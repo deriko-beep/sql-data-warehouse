@@ -1,7 +1,7 @@
 /*
 ===============================================================================================================
                                                   DDL Script.
-									                Create Tables in the Bronze schemas
+									 Create Tables in the Bronze schemas
 ===============================================================================================================
                                            PURPOSE OF THE SCRIPT
        This script creates tables in the 'Bronze Schema, dropping existing tables if the already exist.
