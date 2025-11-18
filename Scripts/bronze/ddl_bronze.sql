@@ -4,8 +4,8 @@
 									 Create Tables in the Bronze schemas
 ===============================================================================================================
                                            PURPOSE OF THE SCRIPT
-       This script creates tables in the 'Bronze Schema, dropping existing tables if the already exist.
-                Run this script to refine the DDL structure of the "Bronze' Tables
+       This script creates tables in the 'Bronze Schema, dropping existing tables if they already exist.
+                Run this script to define the DDL structure of the "Bronze' Tables
 
 ===============================================================================================================
 
